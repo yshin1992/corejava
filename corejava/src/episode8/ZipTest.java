@@ -11,7 +11,7 @@ import java.util.zip.ZipFile;
 
 /**
  * 
- * @author Qingxia Liu
+ * @author Yanshuai
  *
  */
 public class ZipTest
